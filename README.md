@@ -9,6 +9,7 @@ Links.:
 - [Nexus site](https://www.sonatype.com/)
 - [Docker](https://www.docker.com/products/docker-desktop)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [everis steps nexus](https://steps.everis.com/nexus/)
 
 -----
 
